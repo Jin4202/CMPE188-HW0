@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CMPE188-HW0"
+  site-url: "https://Jin4202.github.io/CMPE188-HW0"
+  description: "SJSU CMPE188 ML Project"
+  repo-branch: main
+  repo-url: "https://github.com/Jin4202/CMPE188-HW0"
